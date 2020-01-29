@@ -270,15 +270,16 @@ header.top h1 {
 header.top h1 .ofThe {
   display: -webkit-box;
   display: flex;
-  font-size: 3rem;
-  color: #f5a623;
+  font-size: 15rem;
+  color: #e9e50d;
   -webkit-box-pack: center;
           justify-content: center;
   -webkit-box-align: center;
           align-items: center;
-  background: url("images/anchor.svg") center no-repeat;
-  background-size: cover;
-  padding: 0 1rem;
+  background: url("images/delivery-van-svgrepo-com.svg") center no-repeat;
+  background-size: 7rem;
+  transform: rotate(-45deg);
+  padding: 0 4rem;
 }
 header.top h1 .ofThe .of {
   padding-right: 2rem;
